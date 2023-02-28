@@ -1,0 +1,17 @@
+.btnBox {
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+}
+
+.btn {
+  padding: 10px 20px;
+  font-size: 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+ .btn:focus{
+background-color: rgb(0, 140, 255);
+
+}
